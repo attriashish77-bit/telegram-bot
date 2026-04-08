@@ -3,7 +3,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandle
 import os
 
 # BOT TOKEN (Railway से आएगा)
-BOT_TOKEN = os.getenv("8610192884:AAEAhG02sIg7pa92Xi1CAdT0HupEpz1NU1E")
+BOT_TOKEN = "8610192884:AAEAhG02sIg7pa92Xi1CAdT0HupEpz1NU1E"
 
 # Razorpay Links (अपना link डालना)
 PLAN_1 = "https://rzp.io/rzp/Oa0lD2k"
